@@ -12,8 +12,9 @@
 - 실습을 진행하려면 PC나 개인 휴대전화에서 텔레그램을 설치하고, 회원가입 및 로그인이 완료된 상태여야 합니다.
 
 🙋‍♂️ 따라하기
-- telegram api가이드: https://core.telegram.org
-- ngrok 사용방법(외부에서 Localhost 접속하는 방법): https://velog.io/@kya754/ngrok-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+- telegram api 가이드: https://core.telegram.org
+- ngrok 사용방법(외부에서 Localhost 접속하는 방법)
+  - https://velog.io/@kya754/ngrok-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
 - python tutorial bot: https://gitlab.com/Athamaxy/telegram-bot-tutorial/-/blob/main/TutorialBot.py
 - 텔레그렘에서 'botfather'를 추가한다.
 <p align="center">
