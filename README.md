@@ -10,7 +10,9 @@
 
 ⚠️ 유의사항
 - 실습을 진행하려면 PC나 개인 휴대전화에서 텔레그램을 설치하고, 회원가입 및 로그인이 완료된 상태여야 합니다.
-- botfather api가이드: https://core.telegram.org/bots/tutorial#introduction
+
+🙋‍♂️ 따라하기
+- telegram api가이드: https://core.telegram.org
 - python tutorial bot: https://gitlab.com/Athamaxy/telegram-bot-tutorial/-/blob/main/TutorialBot.py
 - 텔레그렘에서 'botfather'를 추가한다.
 <p align="center">
@@ -20,6 +22,16 @@
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/ec557766-8c62-48fb-8e8b-a93c305ef74e" width="50%" height="50%">
 </p>
+- 'bot'으로 끝나는 챗봇 입력하여 새로운 챗봇을 생성한다.
+- 발급받은 access token 정보를 보관한다.
+<p align="center">
+	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/e4266504-682a-48cd-af2a-cb77119b2ad3" width="50%" height="50%">
+</p>
+- 텔레그램 API URL 양식
+<p align="center">
+	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/af602737-36b6-428e-a2e4-a03b2792e268" width="50%" height="50%">
+</p>
+
 
 
 
