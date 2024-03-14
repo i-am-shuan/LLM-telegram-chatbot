@@ -4,6 +4,16 @@
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/f11b604f-652b-49ad-a51c-ffbba0d08780" width="70%" height="70%">
 </p>
 
+✅ 동작 순서:
+- python script를 실행하여 FastAPI 서버를 생성한다.
+- ngrok를 이용해서 '외부에서 로컬서버로 접속하기 위한 주소를 발급' 받는다. 
+   - ngrok 사용방법(외부에서 Localhost 접속하는 방법): https://velog.io/@kya754/ngrok-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+- 발급받은 주소를 telegram api의 웹훅과 연결한다.
+  - telegram api의 웹훅을 사용하여 텔레그램 서버와 로컬서버를 연결한다.    
+<p align="center">
+	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/bda47a71-41a9-491e-84ea-5f39e709e9eb" width="70%" height="70%">
+</p>
+
 ✅ service spec:
 - fast api, ngrok, telegram api
 - langchain, gpt-3.5-turbo, gpt-DALL.E 2
@@ -14,8 +24,6 @@
 🙋‍♂️ 따라하기
 - telegram api 가이드: https://core.telegram.org
   - python tutorial bot: https://gitlab.com/Athamaxy/telegram-bot-tutorial/-/blob/main/TutorialBot.py
-- ngrok 사용방법(외부에서 Localhost 접속하는 방법)
-  - https://velog.io/@kya754/ngrok-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
 - 텔레그렘에서 'botfather'를 추가한다.
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/94749745-b6af-42ea-a3dd-9ada15a897af" width="50%" height="50%">
