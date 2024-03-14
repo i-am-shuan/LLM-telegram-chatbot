@@ -39,19 +39,11 @@
 - GPT에게 질문하기
   - 명령어: /ask
 <p align="center">
-	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/ca4518d2-900a-41d4-ae58-c39cd0381bc6" width="50%" height="50%">
+	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/6ff6397a-cdfe-4690-9dbc-4d210a57f73e" width="50%" height="50%">
 </p>
 
 - DALL-E에게 이미지 작성 요청하기
   - 명령어: /img
 <p align="center">
-	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/3b90ae61-8a42-4aeb-a451-30616a31868e" width="50%" height="50%">
+	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/47388269-ae92-448d-a525-28ac6a7f70d9" width="50%" height="50%">
 </p>
-
-
-
-
-
-
-
-
