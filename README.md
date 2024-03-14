@@ -9,8 +9,7 @@
   - fastapi 단독으로는 웹개발을 할 수 없다. 따라서 비동기 서버를 생성하는 uvicorn을 추가로 설치한다.
   - pip install fastapi
   - pip install 'uvicorn[standard]'
-    - p.s. FastAPI, Uvicorn으로 비동기 웹서버 띄우기
-      - https://velog.io/@crosstar1228/BackendFastAPI-%EC%9E%85%EB%AC%B8-1-Uvicorn-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%9B%B9-%EC%84%9C%EB%B2%84-%EA%B5%AC%ED%98%84
+    - p.s. FastAPI, Uvicorn으로 비동기 웹서버 띄우기: https://bit.ly/fastapi-and-uvicorn
 - ngrok를 이용해서 '외부에서 로컬서버로 접속하기 위한 주소를 발급' 받는다. 
    - ngrok 사용방법(외부에서 Localhost 접속하는 방법): https://velog.io/@kya754/ngrok-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
 - 발급받은 주소를 telegram api의 웹훅과 연결한다.
