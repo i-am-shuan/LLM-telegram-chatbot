@@ -6,6 +6,7 @@
 
 ✅ 동작 순서:
 - python script(telegramebot.py)를 실행하여 FastAPI 서버를 생성한다.
+  - fastapi 단독으로는 웹개발을 할 수 없다. 따라서 비동기 서버를 생성하는 uvicorn을 추가로 설치한다.
   - pip install fastapi
   - pip install 'uvicorn[standard]'
     - p.s. FastAPI, Uvicorn으로 비동기 웹서버 띄우기
