@@ -31,7 +31,7 @@
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/af602737-36b6-428e-a2e4-a03b2792e268" width="50%" height="50%">
 </p>
-
+- 상세 정보는 튜토리얼을 참고한다: https://core.telegram.org/bots/tutorial
 
 
 
