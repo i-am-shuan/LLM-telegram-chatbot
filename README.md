@@ -35,6 +35,23 @@
 </p>
 - 상세 정보는 튜토리얼을 참고한다: https://core.telegram.org/bots/tutorial
 
+👀 결과
+- GPT에게 질문하기
+  - 명령어: /ask
+<p align="center">
+	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/ca4518d2-900a-41d4-ae58-c39cd0381bc6" width="50%" height="50%">
+</p>
+
+- DALL-E에게 이미지 작성 요청하기
+  - 명령어: /img
+<p align="center">
+	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/3b90ae61-8a42-4aeb-a451-30616a31868e" width="50%" height="50%">
+</p>
+
+
+
+
+
 
 
 
