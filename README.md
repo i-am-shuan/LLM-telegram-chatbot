@@ -4,6 +4,8 @@
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/f11b604f-652b-49ad-a51c-ffbba0d08780" width="70%" height="70%">
 </p>
 
+---
+
 ✅ 동작 순서:
 - python script(telegramebot.py)를 실행하여 FastAPI 서버를 생성한다.
   - fastapi 단독으로는 웹개발을 할 수 없다. 따라서 비동기 서버를 생성하는 uvicorn을 추가로 설치한다.
@@ -18,12 +20,16 @@
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/bda47a71-41a9-491e-84ea-5f39e709e9eb" width="70%" height="70%">
 </p>
 
+---
+
 ✅ service spec:
 - fast api, ngrok, telegram api
 - langchain, gpt-3.5-turbo, gpt-DALL.E 2
 
 ⚠️ 유의사항
 - 실습을 진행하려면 PC나 개인 휴대전화에서 텔레그램을 설치하고, 회원가입 및 로그인이 완료된 상태여야 합니다.
+
+---
 
 🙋‍♂️ 따라하기
 - telegram api 가이드: https://core.telegram.org
@@ -32,20 +38,28 @@
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/94749745-b6af-42ea-a3dd-9ada15a897af" width="50%" height="50%">
 </p>
+
 - 새로운 챗봇을 생성한다: /newvot
+
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/ec557766-8c62-48fb-8e8b-a93c305ef74e" width="50%" height="50%">
 </p>
+
 - 'bot'으로 끝나는 챗봇 입력하여 새로운 챗봇을 생성한다.
 - 발급받은 access token 정보를 보관한다.
+
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/e4266504-682a-48cd-af2a-cb77119b2ad3" width="50%" height="50%">
 </p>
+
 - 텔레그램 API URL 양식
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/af602737-36b6-428e-a2e4-a03b2792e268" width="50%" height="50%">
 </p>
+
 - 상세 정보는 튜토리얼을 참고한다: https://core.telegram.org/bots/tutorial
+
+---
 
 👀 결과
 - GPT에게 질문하기
@@ -59,3 +73,5 @@
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/47388269-ae92-448d-a525-28ac6a7f70d9" width="50%" height="50%">
 </p>
+
+---
