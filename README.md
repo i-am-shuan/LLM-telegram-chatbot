@@ -13,7 +13,7 @@
   - pip install 'uvicorn[standard]'
     - p.s. FastAPI, Uvicorn으로 비동기 웹서버 띄우기: https://bit.ly/fastapi-and-uvicorn
 - ngrok를 이용해서 '외부에서 로컬서버로 접속하기 위한 주소를 발급' 받는다. 
-   - ngrok 사용방법(외부에서 Localhost 접속하는 방법): https://velog.io/@kya754/ngrok-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+   - ngrok 사용방법(외부에서 Localhost 접속하는 방법): https://bit.ly/about-ngrok
 - 발급받은 주소를 telegram api의 웹훅과 연결한다.
   - telegram api의 웹훅을 사용하여 텔레그램 서버와 로컬서버를 연결한다.    
 <p align="center">
