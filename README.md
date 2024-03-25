@@ -52,12 +52,10 @@
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/e4266504-682a-48cd-af2a-cb77119b2ad3" width="50%" height="50%">
 </p>
 
-- 텔레그램 API URL 양식
-<p align="center">
-	<img alt="image" src="https://github.com/i-am-shuan/LLM-telegram-chatbot/assets/161431602/af602737-36b6-428e-a2e4-a03b2792e268" width="50%" height="50%">
-</p>
-
-- 상세 정보는 튜토리얼을 참고한다: https://core.telegram.org/bots/tutorial
+- 텔레그램 API URL 양식: https://api.telegram.org/bpt<token>/METHOD_NAME
+  - 메세지 전송: https://api.telegram.org/bpt<token>/sendMessage
+  - 사진 전송: https://api.telegram.org/bpt<token>/sendPhoto
+- p.s. telegram bot tutorial: https://core.telegram.org/bots/tutorial
 
 ---
 
